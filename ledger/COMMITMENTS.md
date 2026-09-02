@@ -16,7 +16,7 @@ Table
 
 ID	Commitment	Date Registered	Deadline	Failure Threshold	Status	Outcome
 
-PZ-2.1	Repository public with all 22 instruments uploaded	1 Sep 2026	6 Sep 2026	Repository not live by 7 Sep	☐ OPEN	—
+| PZ-2.1 | Repository public with all 22 instruments uploaded | 1 Sep 2026 | 1 Sep 2026 | Repository not live by 7 Sep | ☑ KEPT | Repository live with Document I, governance files, and folder structure |
 
 PZ-2.2	Accountability block completed with founder's real name	1 Sep 2026	13 Sep 2026	Name not published by 14 Sep	☐ OPEN	—
 
@@ -64,7 +64,7 @@ Table
 
 ID	Commitment	Date Registered	Deadline	Status	Outcome	Closed Date
 
-(None yet)						
+| PZ-2.1 | Repository public with all 22 instruments uploaded | 1 Sep 2026 | 1 Sep 2026 | Repository not live by 7 Sep | ☑ KEPT | Repository live with Document I, governance files, and folder structure |					
 
 Missed Commitments
 
@@ -78,8 +78,9 @@ Change Log
 
 Table
 
-Date	Change	Authority
 
+Date	Change	Authority
+1 Sep 2026 PZ-2.1 marked KEPT — repository live with Document I Michael C. Seidel, Founder
 1 Sep 2026	Ledger v0.1 opened with 10 Phase Zero commitments	Michael C. Seidel, Founder
 1 Sep 2026	Ledger v0.2 — Political Track added with 8 commitments	Michael C. Seidel, Founder
 "The first miss, honestly recorded, is worth more than a perfect month nobody can verify." — Document XXIII
