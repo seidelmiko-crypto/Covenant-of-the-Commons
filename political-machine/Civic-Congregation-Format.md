@@ -1,164 +1,125 @@
-Civic Congregation Format
+# THE POLITICAL MACHINE — RECALIBRATED
+## Third Pillar: Barn Church Model + Civic Congregation Hybrid
+### Covenant of the Commons — Political Operations Document v1.1
 
-The Cellular Unit of the Political Machine
-
-Covenant of the Commons — Political Operations
-
-Version: 1.0
-
-Date: 1 September 2026
-
-Status: Active — Month Zero
-
-What It Is
-
-The Civic Congregation is the smallest unit of the Covenant's political machine: a local, face-to-face association that meets monthly, does one concrete action per meeting, and builds community through shared labor rather than shared ideology.
-
-It is not a party meeting. It is not a rally. It is a working association of citizens who covenant to the Common Cause of Dignity, Liberty, and Happiness.
-
-The Format
-
-Table
-
-Segment	Duration	Purpose
-
-Check-in	15 min	Who is here, what do they need, what do they bring
-
-Education	30 min	One topic from the founding instruments (e.g., "What is the IRT?" "How does the Council of Five work?")
-
-Action Item	45 min	Concrete, achievable in 30 days: voter registration, mutual aid, policy letter, candidate forum, community garden
-
-Social Time	30 min	Food, conversation, relationship building
-
-Total: 2 hours
-
-The Rules
-
-No dues. Voluntary contributions only.
-
-No ideological test. Only agreement to the core principles: Dignity, Liberty, Happiness, Soul Force.
-
-No candidate endorsement in the congregation. The congregation is nonpartisan educational space. Endorsement happens through the 501(c)(4).
-
-Everyone has a role. No spectators. If you attend, you contribute.
-
-Everything is ledgered. Attendance, actions, outcomes — recorded in the congregation's log.
-
-Rotating hosts. No permanent leader. The host rotates every month.
-
-Free space. Library community room, park, church basement, living room. No rental costs.
-
-The Growth Model
-
-Table
-
-Stage	Size	Activity	Timeline
-
-Seed	3–5 people	Monthly meetings, one action item	Month 0–3
-
-Sprout	10–15 people	Biweekly meetings, two action items, first mutual aid project	Month 3–6
-
-Sapling	20–30 people	Weekly working groups, voter registration drive, candidate forum	Month 6–12
-
-Tree	50–100 people	Multiple congregations, coordinated actions, policy campaign	Year 2–3
-
-Forest	500+ people	Regional chapters, elected officials in pipeline, policy wins	Year 3–5
-
-First Congregation Agenda (Template)
-
-Date: [Insert date]
-
-Host: [Insert name]
-
-Location: [Insert address — free space]
-
-1. Check-in (15 min)
-
-Name, pronouns, one word for how you arrived
-
-One thing you need from this community
-
-One thing you can offer this community
-
-2. Education (30 min)
-
-Topic: "What is the Covenant of the Commons?"
-
-Read Document XIX (Public Prospectus v1.2) together, sections I–III
-
-Discussion: What resonates? What worries you? What would you change?
-
-3. Action Item (45 min)
-
-Action: Each attendee identifies:
-
-One person to invite to the next congregation
-
-One community need they can address in the next 30 days
-
-One skill or resource they can contribute
-
-4. Social Time (30 min)
-
-Bring food to share (potluck style, no cost)
-
-No agenda — just conversation
-
-The Congregation Log
-
-After every meeting, the host publishes a log to the repository at /political-machine/congregation-logs/YYYY-MM-DD-[city].md:
-
-markdown
+**Version:** 1.1 (Reconciled)  
+**Date:** 1 September 2026  
+**Authority:** Michael C. Seidel, Founder  
+**Status:** Recalibrated — Barn Church model adopted for September launch
 
 ---
 
-date: YYYY-MM-DD
+## I. THE RECALIBRATION
 
-location: [Address]
+**Original plan (Document XXIII / Political Machine v1.0):** Launch with 5-person Civic Congregations, intimate text-message recruitment, cellular growth from seed to forest.
 
-host: [Name]
+**Constraint encountered:** Founder does not have 5 people available for immediate text-message recruitment on Day 1.
 
-attendees: [Number]
+**Response:** Pivot to **Barn Church Model** — a public-facing community launch that invites the broader community through media announcement and open convening, while retaining the Civic Congregation as the ongoing cellular structure.
+
+**This is not a failure.** It is a constraint-driven adaptation. The ledger records it.
 
 ---
 
+## II. THE BARN CHURCH MODEL
 
+### What It Is
 
-## Check-in Summary
+The Barn Church Model is a hybrid political launch strategy that combines:
 
-[Anonymous summary of needs and offers]
+1. **Public Announcement:** A media-facing launch (press release, social media, community boards) that announces the Covenant's political presence in Denver/Front Range
+2. **Open Convening:** A public meeting — the "barn raising" — where anyone can attend, learn, and commit
+3. **Civic Congregation Formation:** From the open convening, those who commit form the first Civic Congregations
+4. **Campaign Strategy Integration:** The September launch feeds directly into a structured campaign strategy for the 2026–2027 cycle
 
+### Why It Works for This Constraint
 
+- Does not require a pre-existing network of 5 committed people
+- Leverages public curiosity and the novelty of the architecture
+- Creates momentum through event-based organizing
+- The Civic Congregation structure still governs ongoing operations — the Barn Church is the launch mechanism, not the ongoing model
 
-## Education Topic
+### The September Sequence
 
-[What was discussed]
+| Week | Action | Output |
+|------|--------|--------|
+| Week 1 (Sep 1–6) | Draft media announcement; prepare open convening materials | Press release draft; event page |
+| Week 2 (Sep 7–13) | Publish media announcement; distribute to Denver media, community boards, social media | Public awareness; inbound inquiries |
+| Week 3 (Sep 14–20) | Host first open convening (Barn Church); invite all respondents + consultation invitees | First public gathering; attendee list |
+| Week 4 (Sep 21–30) | From convening attendees, form first Civic Congregation; register commitments | Congregation constituted; action item assigned |
 
+---
 
+## III. THE ONGOING MODEL: CIVIC CONGREGATIONS
 
-## Action Item
+The Barn Church is the **door**. The Civic Congregation is the **house**.
 
-[What was committed to]
+After the September open convening:
+- Attendees who commit to ongoing participation form Civic Congregations (3–15 people)
+- Congregations meet monthly with the standard format (check-in, education, action, social)
+- New attendees from the Barn Church are funneled into existing Congregations or seed new ones
+- The Barn Church event repeats quarterly as a public-facing recruitment and accountability forum
 
+---
 
+## IV. CAMPAIGN STRATEGY INTEGRATION
 
-## Outcomes (to be updated at next meeting)
+The September launch is not a one-off event. It is the opening of the **2026–2027 Campaign Cycle**.
 
-[What actually happened]
+### Campaign Tracks (Parallel)
 
+| Track | Activity | Timeline |
+|-------|----------|----------|
+| **Community** | Civic Congregations; mutual aid; voter registration | Ongoing from September |
+| **Media** | Press releases; op-eds; podcast appearances; social media | September–December |
+| **Policy** | Identify 3–5 local policy issues aligned with Covenant principles; draft position papers | October–December |
+| **Candidate Scouting** | Identify potential 2027 local candidates (city council, school board, county commission); relationship-building | October–March |
+| **Coalition** | Reach out to aligned organizations (cooperatives, environmental groups, immigrant rights, labor) | September–ongoing |
 
+### The Horsemen Test for Campaign Activity
 
-## Next Meeting
+Every campaign action must pass the Horsemen Test:
+> "Does this choice reduce or increase the probability that war, famine, pestilence, or despair claim the populations in our care?"
 
-[Date, location, host]
+---
 
-The Horsemen Test
+## V. LEGAL FRAMEWORK (Unchanged)
 
-Every congregation action must pass the Horsemen Test (Document IV §7.2):
+The legal pathway remains:
+- **Months 0–12:** Informal association (Barn Church events + Civic Congregations)
+- **Month 12+:** Colorado 501(c)(4) — "Covenant Civic Association"
+- **Year 3+:** Connected PAC
 
+**Critical rule:** No candidate endorsement before 501(c)(4) filing. The Barn Church and Civic Congregations are nonpartisan educational and community-building spaces until the (c)(4) exists.
 
-"Does this choice reduce or increase the probability that war, famine, pestilence, or despair claim the populations in our care?"
+---
 
-If the answer is "increase probability of harm," the action is vetoed — regardless of political expediency.
+## VI. WHAT CHANGED AND WHAT DIDN'T
 
-"The business is the revolution." — Document I
+| Element | v1.0 (Original) | v1.1 (Recalibrated) |
+|---------|-----------------|---------------------|
+| Launch mechanism | 5 text messages to intimate network | Public media announcement + open convening |
+| First gathering | 5-person living room meeting | Public Barn Church event |
+| Recruitment | Founder-initiated, personal | Community-initiated, inbound |
+| Growth model | Cellular (seed → sprout → sapling) | Event-driven funnel → cellular retention |
+| Ongoing structure | Civic Congregations | Civic Congregations (unchanged) |
+| Legal frame | Informal association | Informal association (unchanged) |
+| Campaign integration | Month 3+ | Month 1 (September) |
+
+---
+
+## VII. RISK ACKNOWLEDGMENT
+
+**Risk:** Public launch without a pre-existing core group may attract attention without commitment. The Barn Church could be a well-attended event with low conversion to ongoing Civic Congregations.
+
+**Mitigation:**
+1. The event is structured as a **commitment ceremony**, not a lecture — attendees must explicitly opt in to the Congregation
+2. Follow-up within 48 hours of the event — personal contact with every attendee
+3. Low barrier to ongoing participation (no dues, no ideological test, free space)
+4. If conversion is low, the founder returns to intimate recruitment (the original model) for the second Congregation
+
+---
+
+*"The first miss, honestly recorded, is worth more than a perfect month nobody can verify." — Document XXIII*
+*"A constraint-driven adaptation is not a failure. It is the ledger doing its job." — This document*
+
