@@ -8,13 +8,17 @@ Founder: Michael C. Seidel · Denver, Colorado
 
 Status: Phase Zero — Month Zero (September 2026)
 
-Repository: covenant-of-the-commons seidelmiko-crypto/Covenant-of-the-Commons
+License: CC BY-SA 4.0
 
 What This Is
 
-This repository contains the complete founding instrument series of the Global Stewardship Council for Renewal and Resilience — a proposed decentralized institution operating under the Constitutional Charter of the Commons. The Council is constituted as an ecosystem of entities under perpetual mission authority: a Delaware Perpetual Purpose Trust (Tier I), a Swiss Verein (Tier II), a Wyoming DAO-LLC (Tier III), and a Colorado 501(c)(3) (Tier IV).
+This repository contains the complete founding instrument series of the Global Stewardship Council for Renewal and 
+Resilience — a proposed decentralized institution operating under the Constitutional Charter of the Commons. The Council is 
+constituted as an ecosystem of entities under perpetual mission authority: a Delaware Perpetual Purpose Trust (Tier I), a 
+Swiss Verein (Tier II), a Wyoming DAO-LLC (Tier III), and a Colorado 501(c)(3) (Tier IV).
 
-The work here is governed by one rule above all others: the ledger is the proof. Every commitment is registered, dated, and falsifiable. Nothing is deleted; only superseded with change-logs.
+The work here is governed by one rule above all others: the ledger is the proof. Every commitment is registered, dated, and 
+falsifiable. Nothing is deleted; only superseded with change-logs.
 
 Three-Horizon Status Honesty
 
@@ -95,16 +99,29 @@ For accountability: Read Documents VII, IX, XX, and XXIV.
 
 For execution: Read Documents XXI–XXIII.
 
+The Three Pillars
+
+Institutional: 501(c)(3) · LLC · Research · Protocols · Stewardship Council
+
+Political: Civic Congregations · 501(c)(4) · Candidate Pipeline · Policy Campaigns
+
+Commercial: Services · Hemp · Biochar · Fund · Cooperatives
+
+All three rest on The Ledger — registered, dated, falsifiable.
+
 The Ledger
 
-All registered commitments, their deadlines, failure thresholds, and outcomes are recorded in /ledger/COMMITMENTS.md. The ledger is append-only. Git history is the audit trail.
+All registered commitments, their deadlines, failure thresholds, and outcomes are recorded in /ledger/COMMITMENTS.md. The 
+ledger is append-only. Git history is the audit trail.
 
 Consultation
 
-An open consultation is active from 27 September 2026 to 26 December 2026. See /consultation/HOW-TO-RESPOND.md for submission instructions.
+An open consultation is active from 27 September 2026 to 26 December 2026. See /consultation/HOW-TO-RESPOND.md for 
+submission instructions.
 
 License
 
-All founding instruments are released under Creative Commons Attribution-ShareAlike 4.0 International. You may fork, adapt, and build upon this work, provided you attribute the source and release derivative works under the same license.
+All founding instruments are released under Creative Commons Attribution-ShareAlike 4.0 International. You may fork, adapt, 
+and build upon this work, provided you attribute the source and release derivative works under the same license.
 
 "We have it in our power to begin the world over again." — Thomas Paine
