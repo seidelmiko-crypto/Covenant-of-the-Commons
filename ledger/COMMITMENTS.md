@@ -38,7 +38,7 @@
 | PZ-POL-4 | No candidate endorsement before 501(c)(4) filing | 1 Sep 2026 | Until 501(c)(4) filed | Endorsement in violation | ☐ OPEN | — |
 | PZ-POL-5 | Monthly congregation log published on repo | 1 Sep 2026 | 1 Nov 2026 (first) | Missed monthly log | ☐ OPEN | — |
 | PZ-POL-6 | Campaign strategy document published | 1 Sep 2026 | 30 Sep 2026 | No strategy by 1 Oct | ☐ OPEN | — |
-| PZ-POL-7 | Voter registration materials ordered (CO SOS) | 1 Sep 2026 | 15 Sep 2026 | Materials not ordered | ☐ OPEN | — |
+| PZ-POL-7 | Voter registration materials ordered (CO SOS) | 1 Sep 2026 | 2 Sep 2026 | Materials not ordered | ☑ KEPT | Ordered 2 Sep 2026 |
 | PZ-POL-8 | 3 aligned organizations identified and contacted | 1 Sep 2026 | 30 Sep 2026 | <3 orgs contacted | ☐ OPEN | — |
 
 ---
