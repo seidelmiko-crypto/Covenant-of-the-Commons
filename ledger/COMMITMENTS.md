@@ -13,7 +13,7 @@
 | ID | Commitment | Date Registered | Deadline | Failure Threshold | Status | Outcome |
 |----|-----------|-----------------|----------|-------------------|--------|---------|
 | PZ-2.1 | Repository public with Document I and governance files | 1 Sep 2026 | 6 Sep 2026 | Repository not live by 7 Sep | ☑ KEPT | Repository live 1 Sep 2026 |
-| PZ-2.2 | Accountability block completed with founder's real name | 1 Sep 2026 | 13 Sep 2026 | Name not published by 14 Sep | ☐ OPEN | — |
+| PZ-2.2 | Accountability block completed with founder's real name | 1 Sep 2026 | 1 Sep 2026 | Name not published by 14 Sep | ☑ KEPT | Name published in README and Document I |
 | PZ-2.3 | Consultation opened with submission instructions | 1 Sep 2026 | 27 Sep 2026 | No consultation package by 28 Sep | ☐ OPEN | — |
 | PZ-2.4 | Methodology Paper No. 1 published | 1 Sep 2026 | 31 Oct 2026 | No submission by 1 Nov | ☐ OPEN | — |
 | PZ-2.5 | Three independent reviewers recruited | 1 Sep 2026 | 30 Nov 2026 | <3 reviewers by 1 Dec | ☐ OPEN | — |
